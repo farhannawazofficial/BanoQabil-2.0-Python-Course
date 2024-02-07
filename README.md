@@ -1,6 +1,7 @@
 Banoqabile 2.0 Python Programming Course
 About the Course
-Welcome to the Banoqabile 2.0 Python Programming Course! This course is designed to provide you with a comprehensive understanding of Python programming, covering topics from basics to advanced concepts.
+Welcome to the Banoqabile 2.0 Python Programming Course! 
+This course is designed to provide you with a comprehensive understanding of Python programming, covering topics from basics to advanced concepts.
 
 About the Instructor
 MUHAMMAD ABDULLAH
